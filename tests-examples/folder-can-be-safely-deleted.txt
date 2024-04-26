@@ -1,0 +1,2 @@
+This folder was created by the Playwright extension and holds a file with more test examples.
+However, no tests in this folder will be executed by default due to an option in playwright.config.ts

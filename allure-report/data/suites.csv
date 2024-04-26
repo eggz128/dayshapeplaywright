@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Apr 26 11:11:00 BST 2024","Fri Apr 26 11:11:02 BST 2024","2247","firefox","test-2.spec.ts","","","","report attachments",""
+"passed","Fri Apr 26 11:10:51 BST 2024","Fri Apr 26 11:11:00 BST 2024","9009","firefox","test-2.spec.ts","","","","pomified",""
+"passed","Fri Apr 26 11:10:23 BST 2024","Fri Apr 26 11:10:51 BST 2024","27985","firefox","test-2.spec.ts","","","","test",""
